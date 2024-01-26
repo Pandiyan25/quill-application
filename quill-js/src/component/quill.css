@@ -1,0 +1,36 @@
+html {
+  height: 100%;
+  background: #f3f3f3;
+}
+
+.App {
+  font-family: sans-serif;
+}
+
+.container {
+  width: 100%;
+  height: 150px;
+}
+
+header {
+  text-align: center;
+}
+header h1 {
+  font-weight: 300;
+  margin-top: 30px;
+  margin-bottom: 0;
+}
+header p {
+  font-weight: 400;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.ql-container.ql-snow {
+  background: white;
+}
+
+.ql-editor {
+  min-height: 160px;
+}
